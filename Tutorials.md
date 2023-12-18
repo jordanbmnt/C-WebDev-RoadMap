@@ -1,6 +1,7 @@
 # Beginner Project Ideas:
 
 > Before starting check out this video and follow along:
+> This project is done in [WebApp](./WebApplication1/)
 > [Create ASP.NET Core Web Application](https://youtu.be/dTIjAJO-tcQ?si=T_Si62nyrVLAkv7k)
 > If you are like me and dont want to switch from VS Code, when creating the App use the `ASP.NET Core Web App` `Web, MVC, Razor Pages` option.
 > ![New Project Options](./assets/projectInstallingOptions.png)
